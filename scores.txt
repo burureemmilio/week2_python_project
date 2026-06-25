@@ -1,1 +1,2 @@
 lio,Easy,3
+emilio,Hard,0
